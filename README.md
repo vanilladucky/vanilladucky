@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📚 I'm currently a student studying Computer Science with a second major in Business (International Trading) at Nanyang Technological University (NTU) in Singapore. 
+## 🌱 I’m currently learning C, HTML and CSS
+## ⚡ Some of my interests lie in Data Science and Artifical Intelligence. I have an active Kaggle account which you can visit <a href="https://www.kaggle.com/kimmik123" target="_blank">here</a>. If you are looking for collaborate on Kaggle, feel free to reach out to me! I am also trying to learn Web and App Development. 
+## 🧨 Some of my interests are Linear Algebra, Probability Theory, Calculus, Discrete Mathematics, Machine Learning, Time Series Analysis, Data Visualization and solving all sorts of problems, be it leetcode questions or hackathons/datathons.
+## 📫 You can reach me via KIMH0004@e.ntu.edu.sg
