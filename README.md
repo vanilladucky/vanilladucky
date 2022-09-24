@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning C, HTML and CSS.
 ### ⚡ Some of my interests lie in Data Science and Artifical Intelligence. I have an active Kaggle account which you can visit <a href="https://www.kaggle.com/kimmik123" target="_blank">here</a>. If you are looking for collaborate on Kaggle, feel free to reach out to me! I am also trying to learn Web and App Development. 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimmik123/notebook)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kimmik123/notebook)
 ### 🧨 Some of my interests are Linear Algebra, Probability Theory, Calculus, Discrete Mathematics, Machine Learning, Time Series Analysis, Data Visualization and solving all sorts of problems, be it leetcode questions or hackathons/datathons.
 ### 📫 You can reach me via KIMH0004@e.ntu.edu.sg
 ### 📫 You can reach me via https://www.linkedin.com/in/hyun-bin-kim-891a32202/
