@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimmik123/discussion)
 ### 🧨 Some of my interests are Linear Algebra, Probability Theory, Calculus, Discrete Mathematics, Machine Learning, Time Series Analysis, Data Visualization and solving all sorts of problems, be it leetcode questions or hackathons/datathons.
 ### 📫 You can reach me via KIMH0004@e.ntu.edu.sg
-### 📫 You can read about me on <a href='https://www.linkedin.com/in/hyun-bin-kim-891a32202/' target='_blank'>Linkedin</a>
+### 📫 You can read about me on <a href='https://www.linkedin.com/in/hyun-bin-kim-891a32202/' target='_blank'>LinkedIn</a>
