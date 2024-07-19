@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📚 I'm currently a student studying Computer Science with a second major in Business (International Trading) at Nanyang Technological University (NTU) in Singapore. 
-### 😀 I'm proficient in coding in Python and very familiar with all of it's necessary libraries. I am knowledgeable in various fields of Mathematics so Data Science/Analysis and Machine Learning is the field I'm comfortable in. I took part in datathons from private companies, won the first place in a hackathon and am an avid writer on Kaggle on various topics relating to DSAI.
-### 🌱 I’m currently learning JS and PyTorch.
-### ⚡ My interests lie in Data Science and Artifical Intelligence. I have an active Kaggle account which you can visit <a href="https://www.kaggle.com/kimmik123" target="_blank">here</a>.
-### 🌈 I love to contribute to open source projects too relating to Deep Learning, especially with PyTorch. Deep Learning Research in the field of sequential data/learning is one of my aspirations and I implement model architectures after reading papers whenever I can and try to understand the fundamentals behind research papers. All of my related work can be found in this [repository](https://github.com/vanilladucky/PyTorch_Guide)
-### 🧨 My interests lie in mathematics and deep learning. 
+## Penultimate Computer Science student with a Second major in Business with specialization in International Trading studying in Nanyang Technological University (NTU) Singapore
+### - <a href = 'https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation' target='_blank'>Research Intern at MMLab@NTU (Summer 2024)</a>
+### - <a href='https://myycai.wixsite.com/aimed' target='_blank'>Student Researcher at National Cancer Center Singapore / NTU (2023/24)</a>
+### - <a href='https://github.com/MoBanerjee/NIDS_HackOSS' target='_blank'>HackOSS Technical Team Member at NTU (2023)</a>
 <br></br>
-### 📫 You can reach me via KIMH0004@e.ntu.edu.sg
-### 📫 You can read about me on <a href='https://www.linkedin.com/in/hyun-bin-kim-891a32202/' target='_blank'>LinkedIn</a>
+### Email: KIMH0004@e.ntu.edu.sg
+### Linkedin Profile for more information: <a href='https://www.linkedin.com/in/hyun-bin-kim-891a32202/' target='_blank'>LinkedIn</a>
