@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Penultimate Computer Science student with a Second major in Business with specialization in International Trading studying in Nanyang Technological University (NTU) Singapore
+### - Machine Learning Engineer Intern at MediaTek (2024) 
 ### - <a href = 'https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation' target='_blank'>Research Intern at MMLab@NTU (Summer 2024)</a>
 ### - <a href='https://myycai.wixsite.com/aimed' target='_blank'>Student Researcher at National Cancer Center Singapore / NTU (2023/24)</a>
 ### - <a href='https://github.com/MoBanerjee/NIDS_HackOSS' target='_blank'>HackOSS Technical Team Member at NTU (2023)</a>
