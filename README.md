@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## Penultimate Computer Science student with a Second major in Business with specialization in International Trading studying in Nanyang Technological University (NTU) Singapore
+### - <a href = https://aibl.snu.ac.kr/home target='_blank'>Research collaboration at AIBL lab (2025)</a> 
+### - <a href = https://medvisailab.github.io/ target='_blank'>Research Intern at MedVisAI lab (Summer 2025)</a>
+### - Machine Learning Team Lead at College of Computing and Data Science, NTU (2024-2025)
 ### - Machine Learning Engineer Intern at MediaTek (2024) 
 ### - <a href = 'https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation' target='_blank'>Research Intern at MMLab@NTU (Summer 2024)</a>
-### - <a href='https://myycai.wixsite.com/aimed' target='_blank'>Student Researcher at National Cancer Center Singapore / NTU (2023/24)</a>
-### - <a href='https://github.com/MoBanerjee/NIDS_HackOSS' target='_blank'>HackOSS Technical Team Member at NTU (2023)</a>
+### - <a href='https://myycai.wixsite.com/aimed' target='_blank'>Student Researcher at National Cancer Center Singapore / NTU (2023-2024)</a>
 <br></br>
 ### Email: KIMH0004@e.ntu.edu.sg
 ### Linkedin Profile for more information: <a href='https://www.linkedin.com/in/hyun-bin-kim-891a32202/' target='_blank'>LinkedIn</a>
