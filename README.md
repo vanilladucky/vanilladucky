@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Penultimate Computer Science student with a Second major in Business with specialization in International Trading studying in Nanyang Technological University (NTU) Singapore
-### - <a href = https://aibl.snu.ac.kr/home target='_blank'>Research collaboration at AIBL lab (2025)</a> 
 ### - <a href = https://medvisailab.github.io/ target='_blank'>Research Intern at MedVisAI lab (Summer 2025)</a>
 ### - Machine Learning Team Lead at College of Computing and Data Science, NTU (2024-2025)
 ### - Machine Learning Engineer Intern at MediaTek (2024) 
-### - <a href = 'https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation' target='_blank'>Research Intern at MMLab@NTU (Summer 2024)</a>
 ### - <a href='https://myycai.wixsite.com/aimed' target='_blank'>Student Researcher at National Cancer Center Singapore / NTU (2023-2024)</a>
 <br></br>
 ### Email: KIMH0004@e.ntu.edu.sg
