@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Final year Computer Science student with a Second major in Business with specialization in International Trading studying in Nanyang Technological University (NTU) Singapore
-### - Algorithm Engineer at Huawei Singapore (Search and Recommendations Team) (2025-2026)
-### - <a href = https://medvisailab.github.io/ target='_blank'>Research Intern at MedVisAI lab (Summer 2025)</a>
+## PhD Student at Nanyang Technological University (NTU) Singapore
+### - Research intern at Huawei Singapore (Search and Recommendations Team) (2025-2026)
+### - <a href = https://medvisailab.github.io/ target='_blank'>Research intern at MedVisAI lab (Summer 2025)</a>
 ### - Machine Learning Team Lead at College of Computing and Data Science, NTU (2024-2025)
-### - Machine Learning Engineer Intern at MediaTek (2024) 
-### - <a href='https://myycai.wixsite.com/aimed' target='_blank'>Researcher at National Cancer Center Singapore / NTU (2023-2024)</a>
+### - Machine Learning Engineer intern at MediaTek (2024) 
+### - <a href='https://myycai.wixsite.com/aimed' target='_blank'>Researcher intern at National Cancer Center Singapore / NTU (2023-2024)</a>
 <br></br>
 ### Email: KIMH0004@e.ntu.edu.sg
 ### Linkedin Profile for more information: <a href='https://www.linkedin.com/in/hyun-bin-kim-891a32202/' target='_blank'>LinkedIn</a>
